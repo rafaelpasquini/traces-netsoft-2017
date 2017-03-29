@@ -2,9 +2,9 @@ The datasets available in this repository are under the license CC-BY-4.0.
 The full terms are describe in this file and also in the following link:
 https://creativecommons.org/licenses/by/4.0/
 
-Please, if you make any use such datasets, please refer to it as follows:
+Please, if you make any use of such datasets, please refer to it as follows:
 
-Pasquini, R., Stadler, R. "Learning End-to-end Application QoS from OpenFlow Switch Statistics". 
+Rafael Pasquini and Rolf Stadler. "Learning End-to-end Application QoS from OpenFlow Switch Statistics". 
 In: 3rd IEEE Conference on Network Softwarization (IEEE NetSoft 2017), 3-7 July 2017, Bologna, Italy.
 
 The authors can be contact through:
