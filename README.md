@@ -7,7 +7,7 @@ https://creativecommons.org/licenses/by/4.0/
 
 Please, if you make any use of such datasets, please refer to it as follows:
 
-R. Pasquini, R. Stadler. "Learning End-to-end Application QoS from OpenFlow Switch Statistics". 
+Rafael Pasquini and Rolf Stadler. "Learning End-to-end Application QoS from OpenFlow Switch Statistics". 
 In: 3rd IEEE Conference on Network Softwarization (IEEE NetSoft 2017), 3-7 July 2017, Bologna, Italy.
 
 The authors can be contact through:
