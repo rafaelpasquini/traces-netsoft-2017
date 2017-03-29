@@ -2,7 +2,7 @@
 Traces used in Learning End-to-end Application QoS from OpenFlow Switch Statistics - IEEE Netsoft 2017.
 
 The datasets available in this repository are under the license CC-BY-4.0.
-The full terms are describe in th LICENSE.txt file in the root folder and also in the following link:
+The full terms are describe in the LICENSE.txt file in the root folder and also in the following link:
 https://creativecommons.org/licenses/by/4.0/
 
 Please, if you make any use such datasets, please refer to it as follows:
