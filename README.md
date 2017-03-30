@@ -60,7 +60,10 @@ X_flow for VoD service:
 [10] - Client --> Cluster at SWC4;
 [11] - Cluster --> Client at SWC4;
 
-
-
-
-
+X_flow for KV service:
+[0,1,2,3,4,5,6,7,8,9,10,11] - Same as above (VoD service), but for the session in between the KV client and the first KV store machine in our cluster;
+[12..23] - For the session in between the KV client and the second KV store machine in our cluster;
+[24..35] - For the session in between the KV client and the third KV store machine in our cluster;
+[36..47] - For the session in between the KV client and the fourth KV store machine in our cluster;
+[48..59] - For the session in between the KV client and the fifth KV store machine in our cluster;
+[60..71] - For the session in between the KV client and the sixth KV store machine in our cluster.
