@@ -1,5 +1,7 @@
-# learning-openflow
+# traces-netsoft-2017
 Traces used in Learning End-to-end Application QoS from OpenFlow Switch Statistics - IEEE Netsoft 2017.
+
+Include description of the data here.
 
 The datasets available in this repository are under the license CC-BY-4.0.
 The full terms are describe in the LICENSE.txt file in the root folder and also in the following link:
